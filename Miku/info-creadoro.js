@@ -10,7 +10,7 @@ let texto1 = `
 │◦➛📚ᩭ✎Wa.me/5212411261883 (BOT) 
 │◦➛📚ᩭ✎Wa.me/5212411719888 (CREADOR)
 │◦➛📚ᩭ✎Wa.me/5212411347465 (CREADOR)
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️
 ╰────────────┈⊷`
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
