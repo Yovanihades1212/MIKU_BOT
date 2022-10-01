@@ -114,6 +114,7 @@ let str = `
 │◦➛🗃️ᩭ✎ /facebook→enlace / link
 │◦➛🗃️ᩭ✎ /instagram→enlace / link
 │◦➛🗃️ᩭ✎ /mediafire→enlace / link 
+│◦➛🗃️ᩭ✎ /gitclone→enlace / link
 │◦➛🗃️ᩭ✎ /tiktok→enlace / link 
 │◦➛🗃️ᩭ✎ /spotify→texto
 │◦➛🗃️ᩭ✎ /imagen→texto
